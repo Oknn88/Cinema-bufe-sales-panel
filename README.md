@@ -1,2 +1,2 @@
 # Cinema-bufe-sales-panel
-This is my school project. I made this project in Turkish.
+This project panel of a movie ticket and the place of sale of edible and drinkable things.
